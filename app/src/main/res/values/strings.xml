@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioRecordDemo</string>
+    <string name="btnStartRecord">Start Record</string>
+    <string name="btnStopRecord">Stop Record</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnCaptureImage">Capture Image</string>
+    <string name="btnStartVideo">Start Video Recording</string>
+</resources>
